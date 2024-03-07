@@ -10,7 +10,3 @@ spring:
         git:
           uri: https://github.com/prudhvi2244/config1-server
           clone-on-startup: true
-
-
-
-
